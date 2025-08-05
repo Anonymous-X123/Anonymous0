@@ -1,1 +1,0 @@
-This repository presents a summary table that reports the comparative performance of SNoRe-enhanced models (SR-RVFL, SR-ELM, SR-BLS) against their baseline counterparts (RVFL, ELM, BLS) across 120 benchmark datasets.
